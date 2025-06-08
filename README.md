@@ -2,6 +2,10 @@
 
 Boss Window Game is a small Windows Forms mini-game created in C#. The boss window moves across the top of the screen while different enemy windows chase your cursor. Survive all ten phases (about 60 seconds) without losing your three lives to win.
 
+
+![{6E267F06-6869-4F70-B662-C4318EDA5874}](https://github.com/user-attachments/assets/644c90ec-57e6-448f-bd7b-c5ca57e0a101)
+
+
 ## Features
 
 - Written for **.NET Framework 4.7.2** in C# 7.3
