@@ -5,6 +5,9 @@ Your mouse cursor is the target and you must evade a variety of windows for a
 full minute. Each of the ten phases introduces new enemy behaviour and faster
 movement.
 
+![{6E267F06-6869-4F70-B662-C4318EDA5874}](https://github.com/user-attachments/assets/bc2e4a2c-332e-400b-8e92-b1befadc787c)
+
+
 ## Requirements
 
 - Windows with **.NET Framework 4.7.2** installed
