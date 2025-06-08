@@ -1,4 +1,4 @@
-# Boss Window Gam
+# Boss Window Game
 
 Boss Window Game is a tongue‑in‑cheek Windows Forms mini‑game written in C#.
 Your mouse cursor is the target and you must evade a variety of windows for a
