@@ -1,0 +1,9 @@
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\obj\Debug\BossWindowGame.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\obj\Debug\BossWindowGame.Properties.Resources.resources
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\obj\Debug\BossWindowGame.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\obj\Debug\BossWindowGame.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\bin\Debug\BossWindowGame.exe.config
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\bin\Debug\BossWindowGame.exe
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\bin\Debug\BossWindowGame.pdb
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\obj\Debug\BossWindowGame.exe
+C:\Users\jorge\source\repos\BossWindowGame\BossWindowGame\obj\Debug\BossWindowGame.pdb
